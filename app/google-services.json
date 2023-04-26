@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70303315001",
+    "project_id": "somavarapu-76719",
+    "storage_bucket": "somavarapu-76719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70303315001:android:c146bd3f39335e6dd9c9e8",
+        "android_client_info": {
+          "package_name": "com.example.testyourskills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70303315001-3fol6u70fmiiq5soabcu86fidvngks52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0dKL7KCEuAqOoKf40HIxk_fZeDpbcz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70303315001-3fol6u70fmiiq5soabcu86fidvngks52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

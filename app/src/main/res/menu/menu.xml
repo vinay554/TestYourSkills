@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Home"
+        android:id="@+id/homeMenuItem"
+        app:showAsAction="always"/>
+    <item android:title="Start Quiz"
+        android:id="@+id/start_quiz"/>
+    <item android:title="Add Quiz"
+        android:id="@+id/add_quiz"/>
+    <item android:title="Leader Board"
+        android:id="@+id/leader_board"/>
+    <item android:title="Quit"
+        android:id="@+id/quit"/>
+</menu>
